@@ -1,3 +1,3 @@
 <?php
 echo 'nihao';
-ech0 "zhagnshanga";
+echo "zhagnshanga";
